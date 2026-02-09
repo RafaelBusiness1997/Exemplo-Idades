@@ -47,3 +47,6 @@ if __name__ == "__main__":
         except ValueError as e:
             print("Erros: ", e)
             print("Introduza um valor válido")
+
+    os.system("cls")
+    print("Obrigado por utilizar o programa!")
